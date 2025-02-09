@@ -70,14 +70,6 @@ monitoring:
   staking_analysis: true 
 ```
 
-Future Enhancements
-🚀 Multi-Chain Expansion – Support for validators across multiple chains.
-🔗 Enhanced AI Decision-Making – Machine learning models for deeper security insights.
-⚡ Validator Staking Optimization – AI-driven staking strategy recommendations.
-
-Contributing
-We welcome contributions! Submit pull requests or open issues for feature requests and improvements.
-
 
 
 
