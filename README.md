@@ -78,13 +78,6 @@ Future Enhancements
 Contributing
 We welcome contributions! Submit pull requests or open issues for feature requests and improvements.
 
-License
-MIT License. See LICENSE file for details.
-
-```vbnet
-
-This is now structured and formatted properly for a **README.md** file. Let me know if you need any modifications! 🚀
-
 
 
 
